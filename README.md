@@ -9,8 +9,8 @@ Thank you very much for your support!
 ## Socials
 
 * [Youtube: oerg866](https://youtube.com/oerg866)
-* [Twitter/X: oerg866](https://youtube.com/oerg866)
-* [Twitch: clarryow](https://youtube.com/oerg866)
+* [Twitter/X: oerg866](https://x.com/oerg866)
+* [Twitch: clarryow](https://twitch.tv/clarryow)
 
 ## My Projects
 
