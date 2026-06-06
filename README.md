@@ -1,6 +1,6 @@
 ## Hi, I'm Eric alias oerg866!
 
-I do hardware and software things! See below :D
+I do retro-computing hardware and software things! See below :D
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B4U520W8AG)
 
@@ -9,8 +9,8 @@ Thank you very much for your support!
 ## Socials
 
 * [Youtube: oerg866](https://youtube.com/oerg866)
-* [Twitch: clarryow](https://youtube.com/oerg866)
 * [Twitter/X: oerg866](https://youtube.com/oerg866)
+* [Twitch: clarryow](https://youtube.com/oerg866)
 
 ## My Projects
 
