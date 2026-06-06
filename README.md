@@ -55,6 +55,7 @@ Program to edit PCI Configuration Registers for MS-DOS and compatibles (e.g. Fre
 * I'm 32 years old and live somewhere near Frankfurt
 * I work as an embedded software engineer for a very large international electronics distributor.
 * I love Anime, Gaming and eSports (I used to be a high level Overwatch player before adult life got a hold of me...)
+* My favorite anime is Lycoris Recoil, with 86 / Eighty-Six at a close second
 * You can find my (mostly) 80s music playlist [here](https://open.spotify.com/playlist/21N3kBAEu1e8B6BLkZ26et?si=83bd5b364394479a)
 * I love burgers
 * I am semi-active in the Demoscene for the group **TiTAN** and have had a major role in the creation of [two award-](https://www.pouet.net/prod.php?which=61724)[winning productions](https://www.pouet.net/prod.php?which=69648).
